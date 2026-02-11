@@ -48,7 +48,7 @@ public class TelaLogin extends JFrame {
 		contentPane.setLayout(null);
 		
 		nomeUsuario = new JTextField();
-		nomeUsuario.setToolTipText("Digite aqui...");
+		nomeUsuario.setToolTipText("");
 		nomeUsuario.setForeground(Color.DARK_GRAY);
 		nomeUsuario.setFont(new Font("Bodoni MT", Font.PLAIN, 18));
 		nomeUsuario.setBounds(493, 340, 393, 40);
